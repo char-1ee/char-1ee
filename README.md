@@ -1,6 +1,6 @@
 ### Hi, I am Xingjian 👋
 
-I am currently a Computer Science undergraduate in Singapore. My interests include infrastructures (web, data, cloud, devops), distributed storage, high concurrency systems, databases and low-level programming. Also, I am passionate about building software products, which create value through software engineering. I embrace any opportunities for studying, open-source commitments and internships.
+I am currently a Computer Science undergraduate in Singapore. My interests include infrastructures (web, data, cloud, devops), distributed storage, high concurrency systems, databases. Also, I am passionate about building software products, which create value through software engineering. I embrace any opportunities for studying, open-source commitments and internships.
 
 
 #### Tech stack
