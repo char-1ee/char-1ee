@@ -1,13 +1,6 @@
 ### Hi, I am Xingjian 👋
 
-I am currently a Computer Science undergraduate in Singapore. My interests are cloud infrastructures, database, high-performance computing. I am passionate about building software systems, which create value through software engineering. I embrace any opportunities for studying, open-source commitments and internships.
-
-
-#### Tech stack
-- Languages: (1st class) Java, C++, C, (2nd class) Golang, Python, Typescript, C#, Dart, Shell
-- Frameworks: Android, Flutter, Angular, ASP.NET Core
-- Databases: MySQL, PostgreSQL, MSSQL, SQLite
-- Others: Linux, REST, Docker, Git, AWS, Firebase, Machine Learning
+I am currently a Computer Science undergraduate in Singapore. My interests are infrastructures, core database, high-performance computing. I am passionate about building software systems, which create value through software engineering. I embrace any opportunities for studying, open-source commitments and internships.
 
 #### Stats
 
