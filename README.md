@@ -1,6 +1,8 @@
 ### Hi, I am Xingjian 👋
 
-I am currently a Computer Science undergraduate in Singapore. My interests are cloud infrastructures, core database, high-performance computing. I embrace any opportunities for studying, open-source commitments and internships.
+- I am currently a Computer Science undergraduate in Singapore. 
+- My interests are cloud infrastructures, core database, high-performance computing. 
+- I embrace any opportunities for studying, open-source commitments and internships.
 
 #### Contacts
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/char-1ee)
