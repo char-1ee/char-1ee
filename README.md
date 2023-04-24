@@ -1,7 +1,7 @@
 ### Hi, I am Xingjian 👋
 
 - I am currently a Computer Science undergraduate in Singapore. 
-- My interests are cloud infrastructures, core database, high-performance computing. 
+- My interests are cloud infrastructures, high-performance computing and core database. 
 - I embrace any opportunities for studying, open-source commitments and internships.
 
 #### Contacts
